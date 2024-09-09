@@ -19,7 +19,7 @@ footer {
 }
 
 .footer-column h4 {
-  color: #fff;
+  color: red;
   margin-bottom: 20px;
 }
 
@@ -39,7 +39,7 @@ footer {
 }
 
 .footer-column ul li a:hover {
-  color: #fff;
+  color: blue;
 }
 
 .footer-column.social-media ul {

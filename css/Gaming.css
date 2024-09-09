@@ -525,7 +525,7 @@ header .sign-up a:hover {
   }
 }
 .online-game .container {
-  background-image: url(/images/viper-valorant-thumb.jpg);
+  background-image: url(../images/viper-valorant-thumb.jpg);
   background-size: cover;
   background-position: center;
   border-radius: 30px;
